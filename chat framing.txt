@@ -1,0 +1,71 @@
+APPOINTMENT INTENT :
+
+hello
+	how can i help you
+book an appointment
+	your name please
+abc
+	phone number
+1234567890
+	email id
+abc@gmail.com
+	address
+asjkfadfnkd
+	gender
+m	
+	age
+29
+	sure $name, at what date you want to book an slot
+2/3/24
+	morning or evening
+morning 
+	your slot has been fixed on 2/3/24 moring visit the hospital at 10:00 am
+
+
+ONLINE DOCTOR :
+
+i can give this as csv file:
+
+hello
+	hello what illeness are you facing
+i have a cold
+	no problem take these medicine
+i have fever
+	please take these medicine
+i have xyz
+	your problem is serious please book an appointment and consult with our doctor
+where can i get the medicine
+	you can order medicine here
+
+FAQ:
+
+
+hospital address
+	asjaskcnlkscl
+hospital timing
+	10am to 10 pm
+hospital name 
+	abc hospital
+
+
+
+ORDER MEDICINE :
+
+order medicine
+	Sure what medicine do you need
+i need xyz 
+	what quantity do you need
+20
+	 name
+abc
+	mail
+abc@gmail.com
+	phone
+1234512345
+	address to deliver
+ajsfdnfkdnfjdj
+	your order has placed successfully and the bill will be sent to your email
+	do you need home delivery
+yes  :  your medicine will be delivered to address
+no   :  you can visit hospital and get your medicine
+ 
